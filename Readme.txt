@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: NiceAdmin
-Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://github.com/imtiazthedev/NiceAdmin/
+Author: Imtiazthedev
+License: https://github.com/imtiazthedev/NiceAdmin/
